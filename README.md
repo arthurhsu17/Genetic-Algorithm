@@ -11,8 +11,8 @@ Methodology of how it works
 <img width="181" alt="Screenshot 2022-02-21 at 2 46 03 PM" src="https://user-images.githubusercontent.com/71420919/154977555-9cd35a82-b9ab-43b1-ab9d-faffb362120e.png">
 
 
-White environment
+## White environment
 ![White Genetic Algo](https://user-images.githubusercontent.com/71420919/154976657-88fad420-fcdc-481c-8192-a3f602aed81e.gif)
 
-Black environment
+## Black environment
 ![Black Genetic Algo](https://user-images.githubusercontent.com/71420919/154976672-f86eaaa1-7874-4a8d-95e7-379b98805723.gif)
