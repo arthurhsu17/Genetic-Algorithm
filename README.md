@@ -21,9 +21,9 @@ Genetic Algorithm is a random-based classical algorithm inspired by Charles Darw
 <img width="553" alt="Screenshot 2022-02-21 at 2 45 19 PM" src="https://user-images.githubusercontent.com/71420919/154977432-1f8c1697-d1bc-46cf-bba9-396a8014063e.png">
 
 This is where some high school biology becomes useful, for example if you have two parents:
-*parent 1 = 000000
-*parent 2 = 111111
+* parent 1 = 000000
+* parent 2 = 111111
 a crossover of genes between parent 1 and parent 2 can result in offspring having:
-*offspring 1 = 111000
-*offspring 2 = 000111
+* offspring 1 = 111000
+* offspring 2 = 000111
 this is because half of the genes in an offspring come from parent 1 and the other half from parent 2.
