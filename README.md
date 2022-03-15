@@ -1,5 +1,4 @@
 # Genetic-Algorithm
-
 Genetic Algorithm simulator made using MATLAB 
 
 Genetic Algorithm is a random-based classical algorithm inspired by Charles Darwin's theory of natural evolution. This algorithm reflects the process of natural selection where the fittest individuals are selected for reproduction in order to produce offspring of the next generation. In this example, each square represents an 'insect', there are 64 insects in total laid out by an 8x8 grid. The colour of each insect is randomly initalized, as well as the background colour. It is seen that as each generation (cycle) passes, the insects that are most alike to the background colour survive, and thus reproduce amongst themselves to have offspring that share similar qualities. While insects whose colours are most unlike the background colour essentially die away.
